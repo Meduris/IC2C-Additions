@@ -1,0 +1,7 @@
+{
+  "item.ic2cadditions.nanobow": "Nano Bow",
+  "item.ic2cadditions.elytra_module": "Elytra Module",
+  "itemGroup.ic2cadditions": "IC2C Additions",
+  "tooltip.item.ic2cadditions.elytra_module.handbrake": "Stop Elytra Flight",
+  "tooltip.item.ic2cadditions.nanobow.collectdrops": "Automatically picks up xp and item drops"
+}
