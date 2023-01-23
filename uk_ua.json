@@ -1,0 +1,7 @@
+{
+  "item.ic2cadditions.nanobow": "Нано Лук",
+  "item.ic2cadditions.elytra_module": "Модуль Елітри",
+  "itemGroup.ic2cadditions": "IC2C Additions",
+  "tooltip.item.ic2cadditions.elytra_module.handbrake": "Зупинити Політ Елітри",
+  "tooltip.item.ic2cadditions.nanobow.collectdrops": "Автоматично збирає досвід та дроп"
+}

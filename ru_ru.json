@@ -1,0 +1,7 @@
+{
+  "item.ic2cadditions.nanobow": "Нано Лук",
+  "item.ic2cadditions.elytra_module": "Модуль Элитры",
+  "itemGroup.ic2cadditions": "IC2C Additions",
+  "tooltip.item.ic2cadditions.elytra_module.handbrake": "Остановить Полёт Элитры",
+  "tooltip.item.ic2cadditions.nanobow.collectdrops": "Автоматически собирает опыт и дроп"
+}
